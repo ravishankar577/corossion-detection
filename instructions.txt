@@ -1,0 +1,5 @@
+1) install all required packages. Read Readme.md too
+2) run corrosion detection.py to train and save the model
+3) run performance_metrics.py to get the values of the performance metrics
+4) run prediction.py to make a prediction. The result is shown in a text box (install tkinter for this:-  "pip install tk --user")
+5) change line 9 of prediction.py(image_path = 'rust.10.jpg') , give the approriate path of the image that you want to predict. run prediction.py again
